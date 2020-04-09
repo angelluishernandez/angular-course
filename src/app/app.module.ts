@@ -13,7 +13,8 @@ import { SuccessAlertComponent } from './success-alert/success-alert.component';
     AppComponent, 
     ServerComponent, 
     ServersComponent, 
-    WarningAlertComponent, SuccessAlertComponent
+    WarningAlertComponent, 
+    SuccessAlertComponent
   ],
   imports: [
     BrowserModule,
